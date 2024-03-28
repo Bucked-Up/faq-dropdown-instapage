@@ -1,8 +1,8 @@
 # Script for adding faq dropdowns into instapage
 
 ```
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/BuckedUp-DasLabs/faq-dropdown@latest/src/scss/style.css" />
-<script src="https://cdn.jsdelivr.net/gh/BuckedUp-DasLabs/faq-dropdown@latest/src/js/scripts.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Bucked-Up/faq-dropdown-instapage@latest/src/scss/style.css" />
+<script src="https://cdn.jsdelivr.net/gh/Bucked-Up/faq-dropdown-instapage@latest/src/js/scripts.js"></script>
 <script>
   createDropdown("#");
 </script>
